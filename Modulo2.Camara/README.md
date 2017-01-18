@@ -1,11 +1,12 @@
-#Creando Apps. Aprende a programar aplicaciones móviles
+# Modulo2: Cámara
+La cámara es algo propio de los dispositivos móviles que no tenemos en desktop. Tener esta característica en nuestro dispositivo móvil nos permite desarrollar aplicaciones que conectan con el mundo que nos rodea.
 
-https://miriadax.net/web/creando-apps-aprende-a-programar-aplicaciones-moviles/
 
-Empleo Digital de Fundación Telefónica te ayuda a descubrir el lenguaje de la era digital y el mundo apasionante de la programación de aplicaciones móviles mediante la programación de 5 sencillas apps:
+## Aprendizaje
+Aprenderemos a acceder a la cámara del móvil y tomar una fotografía. A continuación aprenderemos a aplicar filtros a la fotrografía tomada. También podremos cargar una fotografía de la galería para aplicarle filtros.
 
-En este curso de Empleo Digital de Fundación Telefónica, crearemos 5 apps que nos ayudarán a sentar las bases de la programación de aplicaciones móviles. Para crear estas apps hacemos uso de tecnologías híbridas, es decir, usaremos PhoneGap y tecnologías web: HTML, CSS y JavaScript.
+## App:
+Aprenderemos a tomar una foto, aplicar filtros sobre ella y finalmente,cargar una foto de la galeria
 
-## -Modulo1.Gestos
-- Gestos: aprenderemos cómo detectar los gestos que realiza el usuario sobre la pantalla táctil de nuestro terminal móvil y a cómo crear algunas animaciones.
-
+## Documentation:
+el fichero creandoapps_3-camara.pdf incluye la informacion para este modulo

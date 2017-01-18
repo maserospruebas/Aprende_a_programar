@@ -1,11 +1,14 @@
-#Creando Apps. Aprende a programar aplicaciones móviles
+# Modulo1: Gestos
+Para empezar bien el curso, vamos a desarrollar nuestra primera aplicación: una app de gestos. Los gestos (en inglés 
+gestures) son las interacciones que el usuario hace con la pantalla táctil. Con esta app vamos a ver cómo podemos detectar los gestos que hace el usuario y actuar en consecuencia. 
+Además, aprenderemos cómo realizar algunas animaciones en nuestra app.
 
-https://miriadax.net/web/creando-apps-aprende-a-programar-aplicaciones-moviles/
+## Aprendizaje
+Gestos: aprenderemos cómo detectar los gestos que realiza el usuario sobre la pantalla táctil de nuestro terminal móvil y a cómo crear algunas animaciones.
 
-Empleo Digital de Fundación Telefónica te ayuda a descubrir el lenguaje de la era digital y el mundo apasionante de la programación de aplicaciones móviles mediante la programación de 5 sencillas apps:
+## App:
+Para empezar, vamos a crear una aplicación muy sencilla con dos botones, que al hacer click (tap para dispositivos móviles) en ellos cambiarán el color de fondo de la pantalla de la app. Con esto aprenderemos a distinguir el click del tap. Además, veremos cómo hacer más responsiva (fluida) la interacción con nuestra app.
 
-En este curso de Empleo Digital de Fundación Telefónica, crearemos 5 apps que nos ayudarán a sentar las bases de la programación de aplicaciones móviles. Para crear estas apps hacemos uso de tecnologías híbridas, es decir, usaremos PhoneGap y tecnologías web: HTML, CSS y JavaScript.
+## Documentation:
 
-## -Modulo1.Gestos
-- Gestos: aprenderemos cómo detectar los gestos que realiza el usuario sobre la pantalla táctil de nuestro terminal móvil y a cómo crear algunas animaciones.
-
+el fichero creandoapps_2-gestos.pdf incluye la informacion para este modulo
