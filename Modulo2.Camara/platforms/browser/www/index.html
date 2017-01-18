@@ -3,17 +3,27 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
-        <link rel="stylesheet" type="text/css" href="css/gestures.css">
-        <title>Gestures I</title>
+        <link rel="stylesheet" type="text/css" href="css/camera.css">
+        <title>Camera </title>
     </head>
     <body>
-      <button id='claro'>CLARO</button>
-      <button id='oscuro'>OSCURO</button>
-      <div id='zona-gestos'> </div>
+
+      <div class="header">
+        <span>Mi Camera con Filtros</span>
+      </div>
+
+      <img src="" id="foto" />
+
+      <div class="button-container">
+        <button id="button-action" class="button">Tomar foto</button>
+      </div>
+
+      <div class="footer">
+        Creando Apps, Aprende a programar aplicaciones moviles.
+      </div>
 
         <script type="text/javascript" src="cordova.js"></script>
-        <script type="text/javascript" src="js/gestures.js"></script>
-        <script type="text/javascript" src="js/hammer.min.js"></script>
+        <script type="text/javascript" src="js/camera.js"></script>
         <script type="text/javascript" src="js/fastclick.js"></script>
     </body>
 </html>
